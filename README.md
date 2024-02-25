@@ -1,4 +1,4 @@
-Just a demo REACT js project to kick start the journey
+Just a simple REACT js project titled profile cart, to kick start the React journey
 
 # Getting Started with Create React App
 
@@ -12,6 +12,6 @@ In the project directory, you can run:
 Installs all the dependencies required to run the project
 
 ### `npm start`
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
