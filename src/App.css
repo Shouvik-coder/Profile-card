@@ -54,3 +54,12 @@ h1 {
   color:white;
   font-weight: 500;
 }
+
+.deleteAllSkill{
+  padding: 10px 12px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  color:white;
+  font-weight: 500;
+}

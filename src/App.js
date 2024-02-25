@@ -72,6 +72,19 @@ function SkillList() {
           />
         ))}
       </div>
+      <br />
+      <button
+        className="deleteAllSkill"
+        style={{
+          backgroundColor: "maroon",
+        }}
+        onClick={() => {
+          if (window.confirm("Sure you want to delete it?"))
+            setSkills((skills) => []);
+        }}
+      >
+        <b>DELETE ALL SKILLS</b>
+      </button>
     </>
   );
 }
